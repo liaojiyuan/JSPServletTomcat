@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+   <user country="中国">
+	   <name>张三</name>
+	   <english_name>zhangsan</english_name>
+	   <age>20</age>
+	   <sex>男</sex>
+	   <address state="广东省">
+	       <city>广州市</city>
+	       <area>天河区中山大道</area>
+	   </address>
+	   <description>他是一个工程师</description>
+   </user>
+   <user country="中国">
+	   <name>李四</name>
+	   <english_name>lisi</english_name>
+	   <age>24</age>
+	   <sex>女</sex>
+	   <address state="辽宁">
+	       <city>沈阳市</city>
+	       <area>沈北新区</area>
+	   </address>
+	   <description>他是一个医生</description>
+   </user>
+</users>
+

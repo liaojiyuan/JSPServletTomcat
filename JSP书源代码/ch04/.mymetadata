@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ServletCourse"
+  id="myeclipse.1378817850394"
+  context-root="/ServletCourse"
+  j2ee-spec="5.0"
+  archive="ServletCourse.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

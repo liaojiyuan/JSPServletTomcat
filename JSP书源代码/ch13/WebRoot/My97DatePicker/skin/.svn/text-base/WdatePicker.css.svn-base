@@ -1,0 +1,24 @@
+﻿.Wdate{
+	border-top: 1px solid #888888;
+	border-bottom: 1px solid #CCCCCC;
+	border-left: 1px solid #888888;
+	border-right: 1px solid #CDCDCD;
+	height:20px;
+	cursor: pointer;
+	width: 140px;
+
+	background:#fff url(datePicker.gif) no-repeat right !important;
+}
+
+.Wdate:focus{
+	border-top: 1px solid #555555;
+	border-bottom: 1px solid #AAAAAA;
+	border-left: 1px solid #555555;
+	border-right: 1px solid #AAAAAA;
+}
+
+.WdateFmtErr{
+	font-weight:bold;
+	color:red;
+	text-decoration: line-through;
+}
